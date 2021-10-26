@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zachsean
+- 👀 I’m interested in music, web design, The Legend of Zelda, and Spider-Man
+- 🌱 I’m currently learning how to properly code & manage projects.
+- 💞️ I’m looking to collaborate on nothing at the moment, but always expanding.
+- 📫 You can reach me at zach@zachsean.com
